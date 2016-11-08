@@ -1,0 +1,6 @@
+framework module Pods_OstModernTest {
+  umbrella header "Pods-OstModernTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
